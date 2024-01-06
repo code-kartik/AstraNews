@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="click_to_select_a_lemon">Click to select a lemon</string>
+    <string name="todo">TODO</string>
+</resources>
