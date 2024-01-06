@@ -1,8 +1,10 @@
-package com.example.astranews;
+package com.example.astranews.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.astranews.R;
 
 public class MainActivity extends AppCompatActivity {
 
